@@ -1,0 +1,18 @@
+//!Colours //
+///Primary //
+$primary:hsl(225, 100%, 94%);
+$secondary:hsl(245, 75%, 52%);
+// /// Neutral ///
+$veryPaleBlue: hsl(225, 100%, 98%);
+$desaturatedBlue: hsl(224, 23%, 55%);
+$darkBlue: hsl(223, 47%, 23%);
+// $white: hsl(0, 0%, 100%);
+//! Selector colors */
+$selector_1: '--primary';
+$selector_2: '--secondary';
+$selector_3: '--veryPaleBlue';
+$selector_4: '--desaturatedBlue';
+$selector_5: '--darkBlue';
+// $selector_6: '--white';
+//! Font size
+$general-font-size:16px;
