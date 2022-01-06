@@ -58,7 +58,7 @@ Learned and implemented Sass - variables, mixins. Working with Mobile first work
 
 ### Continued development
 
-In the future, I want to work and implement more with grid CSS.
+In the future, I want to work and implement more with CSS grid.
 
 ## Author
 
