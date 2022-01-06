@@ -54,7 +54,7 @@ Mobile version
 
 ### What I learned
 
-Learned and implemented Sass - variables, mixins. Working with Mobile first workflow is better for faster development.I also implemented BEM for better code understanding.
+Learned and implemented Sass - variables, mixins. Working with Mobile first workflow is better for faster development. I also implemented BEM for better code understanding.
 
 ### Continued development
 
